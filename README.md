@@ -1,7 +1,7 @@
 # Fluid-dynamic characteristics of speech-driven flows of the most-common natural languages
 This research will aim to qualify and ultimately gain a grasp of the fluid dynamic characteristics of airflow out of a person's mouth while speaking. Focus will be on the flow's turbulent properties downstream, such as distance of the jet propagation for varying time. The most spoken languages, globally, will be considered, including: English, Mandarin, Hindi, and Spanish. 
 
-Particular interest is in the turbulent properties of the most common high-momentum generating elements within each selected langague, such as the 'pa' sound in English. The change of these properties for varying speaking loudness (dB) will also be investigated.
+Particular interest is in the turbulent properties of the most common high-momentum generating elements within each selected language, such as the 'pa' sound in English. The change of these properties for varying speaking loudness (dB) will also be investigated.
 
 Once an adequate picture of the dynamics is constructed, attention then can shift to applying this insight towards designing more effective Personal Protective Equipment (see our [CFD research](https://github.com/TessellateDataScience/faceShieldOptimisations)).
 
