@@ -1,7 +1,14 @@
-# Fluid-dynamic characteristics of speech-driven flows of the most-common natural languages
-This research will aim to qualify and ultimately gain a grasp of the fluid dynamic characteristics of airflow out of a person's mouth while speaking. 
+# Speech-driven aerosol distribution of common natural languages
+Within this investigation we attempt to generalise the trajectories of aerosols out of a person's mouth when speaking. Similar to another research group [1] we employ an e-cigarette method where the vapour-based 'cloud' produced allows visualisation of these aerosols' (particle) dynamics produced from the mouth.
 
-Focus will be on the flow's turbulent properties downstream, such as distance of the jet propagation for varying time. The most spoken languages, globally, will be considered, including: English, Mandarin, Hindi, and Spanish. The change of these properties for varying speaking loudness (dB) will also be investigated.
+Our motivation is primarily validation of a complementary investigation employing Computational Fluid Dynamics. We are particularly interested in the speech-driven 'jet' that arises, with focus on the spatial distribution of particles within the jet at ~ 1 metre downstream of the jet source.
+
+We are focussing on the distribution when speaking common words & phrases in the English language. Although we're also interested in other common languages such as Chinese, Indian, Spanish, we suspect native speakers would better represent the particle dynamics of those countries' citizens, generally. 
+
+For our English investigation, we include the following aspects after consideration of linguistic data [2,3]:  
+	- 500 most common words,  
+	- Phrases/sentences containing predominantly these words,  
+	- Varying speech loudness.  
 
 Once an adequate picture of the dynamics is constructed, attention then can shift to applying this insight towards designing more effective Personal Protective Equipment (see our [CFD research](https://github.com/TessellateDataScience/faceShieldOptimisations)).
 
@@ -12,5 +19,7 @@ All applicable intellectual property (IP) we generate is made available under an
 
 Due to this IP license expiring, we have from the date of it's expiry adopted our own pledge (defined within this document as 'Our Pledge'). Our Pledge includes an infinite duration that this license has adopted as it's Time Limitation clause. 
 
-## Further reading
-1. Applying Computational Fluid Dynamics to Speech (Anderson 2005)
+## References
+[1] Transmission of droplet-conveyed infectious agents such as SARS-CoV-2 by speech and vocal exercises during speech therapy: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7365602/  
+[2] Most-common spoken words in English: https://english.stackexchange.com/questions/490450/most-common-words-in-spoken-english  
+[3] Most-common words in English: https://en.wikipedia.org/wiki/Most_common_words_in_English  
